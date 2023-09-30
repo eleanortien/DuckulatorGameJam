@@ -1,7 +1,7 @@
 # DuckulatorGameJam
 LibreGameJam 2023 Submission
 
-~Duckulator~
+-Duckulator-
 
 A short game where you are a duck working on your first day of the job!
 
@@ -9,13 +9,14 @@ You are given a calculator and told to do what it says. Point and click on your 
 
 
 
-~Featuring~
+-Featuring-
 
 A duck button
 The ability to quit with the keypad Q
 Press buttons. Press buttons. Press buttons
 The best music you'll ever hear on the job.
-~Credits~
+
+-Credits-
 
 Erkhes - UI Buttons
 
